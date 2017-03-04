@@ -1,0 +1,10 @@
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.DataExchange.Providers.FileSystem.dll
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.DataExchange.Providers.FileSystem.pdb
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.DataExchange.DataAccess.dll
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.DataExchange.dll
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Sitecore.Services.Core.dll
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Microsoft.OData.Edm.dll
+C:\React\Sitecore.DataExchange.Providers.FileSystem\bin\Debug\Microsoft.OData.Edm.xml
+C:\React\Sitecore.DataExchange.Providers.FileSystem\obj\Debug\Sitecore.DataExchange.Providers.FileSystem.dll
+C:\React\Sitecore.DataExchange.Providers.FileSystem\obj\Debug\Sitecore.DataExchange.Providers.FileSystem.pdb
+C:\React\Sitecore.DataExchange.Providers.FileSystem\obj\Debug\Sitecore.DataExchange.Providers.XMLFileSystem.csprojResolveAssemblyReference.cache
