@@ -15,7 +15,7 @@ namespace Sitecore.DataExchange.Providers.FileSystem.Converters.Endpoints
 {
     public class XMLFileEndpointConverter : BaseEndpointConverter<ItemModel>
     {
-        private static readonly Guid TemplateId = Guid.Parse("{E5D7949D-7154-461D-B97B-A24ED09E1FAE}");
+        private static readonly Guid TemplateId = Guid.Parse("{9BBC1EB0-6CE8-4942-93F7-2B33C9709B8B}");
         public XMLFileEndpointConverter(IItemModelRepository repository) : base(repository)
         {
             this.SupportedTemplateIds.Add(TemplateId);

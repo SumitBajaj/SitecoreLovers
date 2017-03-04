@@ -15,7 +15,7 @@ namespace Sitecore.DataExchange.Providers.FileSystem.Converters.DataAccess
 {
     public class ArrayValueAccessorConverter : ValueAccessorConverter
     {
-        private static readonly Guid TemplateId = Guid.Parse("{7AF02837-829F-40ED-881B-0EFFDD866D8E}");
+        private static readonly Guid TemplateId = Guid.Parse("{FEA8C9AF-0C0E-4362-8132-B0C9E48E7387}");
         public ArrayValueAccessorConverter(IItemModelRepository repository) : base(repository)
         {
             this.SupportedTemplateIds.Add(TemplateId);

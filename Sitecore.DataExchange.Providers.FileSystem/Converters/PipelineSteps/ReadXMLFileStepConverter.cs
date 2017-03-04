@@ -14,7 +14,7 @@ namespace Sitecore.DataExchange.Providers.FileSystem.Converters.PipelineSteps
 {
     public class ReadXMLFileStepConverter : BasePipelineStepConverter<ItemModel>
     {
-        private static readonly Guid TemplateId = Guid.Parse("{9BBC1EB0-6CE8-4942-93F7-2B33C9709B8B}");
+        private static readonly Guid TemplateId = Guid.Parse("{2CA59291-6344-41AB-BF74-34436043F472}");
         public ReadXMLFileStepConverter(IItemModelRepository repository) : base(repository)
         {
             this.SupportedTemplateIds.Add(TemplateId);
