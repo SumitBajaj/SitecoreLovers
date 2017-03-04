@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0">
+  <channel>
+    <title>McKinsey's Operations Extranet</title>
+    <description>What's New</description>
+    <language>en</language>
+    <managingEditor>admin@operations-extranet.mckinsey.com</managingEditor>
+    <webMaster>admin@operations-extranet.mckinsey.com</webMaster>
+    <!-- TODO manually enter date of first publication -->
+    <pubDate>Mon, 28 Mar 2016 01:35:39 +0200</pubDate>
+    <lastBuildDate>Mon, 28 Mar 2016 01:35:39 +0200</lastBuildDate>
+    <category domain="https://operations-extranet.mckinsey.com/">Operations</category>
+    <copyright><![CDATA[© 2007 - 2016 McKinsey & Company]]></copyright>
+    <generator>Extranet Application (PHP)</generator>
+    <!-- four hour caching as request by Insights team -->
+    <ttl>240</ttl>
+  </channel>
+</rss>
